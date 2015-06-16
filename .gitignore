@@ -1,0 +1,13 @@
+*.swp
+*.swo
+*.o
+m2/lexer
+m2/parser
+m2/manana
+m2/interpreter
+m2/lexer.dSYM/
+m2/lexer.dSYM*
+lexer.dSYM/
+manana
+lexer
+parser

@@ -1,0 +1,17 @@
+%if x in y
+
+"""
+           
+%if exists a.bbb.c[x[y[z[0]]]].d
+    div x
+
+%if 'x' in y
+    div y
+
+%if name == "Alice"
+    span Alice
+
+%if x is String
+        """
+
+
